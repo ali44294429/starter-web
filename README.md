@@ -7,6 +7,10 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 
-## Starter web project 
-##pourpose 
+## Starter web project
+
+ 
+##pourpose
+
+ 
 ##how to contribute
