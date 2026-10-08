@@ -12,11 +12,11 @@ Sample website with plenty of files for demos
 simple project for showing demo
  
 
-##pourpose
+## pourpose
 
 to learn git deeply
  
  
-##how to contribute
+## how to contribute
 
 A git hub
