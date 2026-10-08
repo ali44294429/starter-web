@@ -9,12 +9,14 @@ Sample website with plenty of files for demos
 
 ## Starter web project
 
-simple project
+simple project for showing demo
  
+
 ##pourpose
 
-to learn git 
+to learn git deeply
+ 
  
 ##how to contribute
 
-A
+A git hub
